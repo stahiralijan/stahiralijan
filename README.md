@@ -32,6 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/stahiralijan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stahiralijan" /></a><a href="https://ko-fi.com/stahiralijan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="stahiralijan" /></a></p><br><br>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stahiralijan&show_icons=true&locale=en&layout=compact" alt="stahiralijan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stahiralijan&show_icons=true&locale=en" alt="stahiralijan" /></p>
