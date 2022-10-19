@@ -9,6 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel: String manipulations with ‘Str’ class](https://medium.com/@stahiralijan/laravel-string-manipulations-with-str-class-215805b6adbb?source=rss-bb1da8b6bb14------2)
+- [Laravel: Add @method&lpar;&rpar; &amp; @csrf to Blade](https://medium.com/@stahiralijan/laravel-add-method-csrf-to-blade-b65d13eacf5a?source=rss-bb1da8b6bb14------2)
+- [Laravel: Clearing Cache with a click of a button &lpar;Artisan Shortcuts&rpar;](https://medium.com/quick-code/laravel-clearing-cache-with-a-click-of-a-button-artisan-shortcuts-b528f55028f8?source=rss-bb1da8b6bb14------2)
+- [Custom events in Vue with $emit and Responsive Image goodness](https://medium.com/@stahiralijan/custom-events-in-vue-with-emit-and-responsive-image-goodness-38aee9d0b2ac?source=rss-bb1da8b6bb14------2)
+- [Save time by handling POST, PUT, and DELETE in a single FormRequest in Laravel 5](https://medium.com/@stahiralijan/save-time-by-handling-post-put-and-delete-in-a-single-formrequest-in-laravel-5-9b077a72debc?source=rss-bb1da8b6bb14------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
