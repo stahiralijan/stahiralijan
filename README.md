@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Tahir Ali Jan</h1>
-<h3 align="center">I am an experienced and passionate Full Stack Developer with a background in Software Engineering. I have a strong understanding of both frontend and backend, and love to take on new challenges.</h3>
+<h3 align="center">I am an experienced Full Stack Developer with a background in Software Engineering. I have a strong understanding of both frontend and backend, and love to take on new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stahiralijan&label=Profile%20views&color=0e75b6&style=flat" alt="stahiralijan" /> </p>
 
